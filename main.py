@@ -16,7 +16,7 @@ from pressing_estimator import PressingEstimator
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s', datefmt='%H:%M:%S')
 logger = logging.getLogger(__name__)
 
-INPUT_VIDEO = 'input_videos/08fd33_3.mp4'
+INPUT_VIDEO = 'input_videos/08fd33_4.mp4'
 
 
 def get_stub_path(video_path, stub_name):
