@@ -6,8 +6,8 @@ An end-to-end computer vision pipeline that transforms raw football match footag
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
 ![YOLO](https://img.shields.io/badge/YOLOv5-Custom--Trained-orange)
 
-![Screenshot 1](output_videos/Screenshot%202026-02-17%20at%204.08.31%20PM.png)
-![Screenshot 2](output_videos/Screenshot%202026-02-17%20at%204.09.10%20PM.png)
+![Screenshot 1](output_videos/s1.png)
+![Screenshot 2](output_videos/s2.png)
 
 ## Features
 
